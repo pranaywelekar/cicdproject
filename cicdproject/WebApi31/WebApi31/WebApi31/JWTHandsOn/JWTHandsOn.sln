@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTHandsOn", "JWTHandsOn\JWTHandsOn.csproj", "{5F4260C4-2F5C-42BB-ABF8-390767E198CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F4260C4-2F5C-42BB-ABF8-390767E198CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F4260C4-2F5C-42BB-ABF8-390767E198CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F4260C4-2F5C-42BB-ABF8-390767E198CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F4260C4-2F5C-42BB-ABF8-390767E198CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3B6905B-B634-44A9-ACB6-DB9EBF446093}
+	EndGlobalSection
+EndGlobal
